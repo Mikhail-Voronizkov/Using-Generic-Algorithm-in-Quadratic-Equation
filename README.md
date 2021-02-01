@@ -1,0 +1,1 @@
+# Using-Generic-Algorithm-in-Quadratic-Equation
